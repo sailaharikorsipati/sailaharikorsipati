@@ -10,7 +10,7 @@
 | **Degree**                          | **Institution**                          | **Graduation Date** |
 |-------------------------------------|------------------------------------------|---------------------|
 | **MS in Business Analytics**        | The University of Texas at Dallas        | May 2025            |
-| **Masters in Civil Engineering**    | NIT Surathkal                            | May 2020            |
+| **Masters in Engineering**          | NIT Surathkal                            | May 2020            |
 | **Bachelors in Civil Engineering**  | NIT Calicut                              | May 2017            |
 
 ## 💼 **Professional Experience**
