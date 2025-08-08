@@ -19,6 +19,7 @@
 |-----------------------------------------------|-------------------------------------|
 | **Business Intelligence Analyst**             | Federal Home Loan Bank of Dallas    | 
 | **Data Analyst**                              | Tata Consulting Engineers Ltd       | 
+| **Operations Analyst**                        | Gowthami Greentech                  |
 | **Business Analyst**                          | KMC Constructions                   |
 
 ## 🔭 **What I'm Currently Working On**
